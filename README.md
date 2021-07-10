@@ -6,17 +6,15 @@
 
 ## 🙋‍♂️ About Me
 
+🔭 I’m currently working on MERN stack
 
-- 🌱 
-- 👯 
+🌱 I’m currently learning React Native
 
-- 👨‍💻 
+💬 Ask me about JavaScript, node js, react.js, redux
 
-- 📫 
+📫 How to reach me raselabir107@gmail.com
 
-- ⚡ 
-
-## 🚀
+⚡ Fun fact I love to travel and reading books.
 
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
